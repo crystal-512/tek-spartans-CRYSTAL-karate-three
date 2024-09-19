@@ -12,13 +12,13 @@
         """
         {
           "email": "#(email)",
-          "firstName": "Mohammad",
-          "lastName": "Shokriyan",
-          "title": "Mr.",
-          "gender": "MALE",
+          "firstName": "Crystal",
+          "lastName": "Marry",
+          "title": "Ms.",
+          "gender": "Female",
           "maritalStatus": "Single",
           "employmentStatus": "Software Developer",
-          "dateOfBirth": "1985-02-27"
+          "dateOfBirth": "1989-03-12"
         }
         """
      When method post

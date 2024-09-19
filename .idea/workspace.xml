@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="215bdb94-7401-4f12-b7e6-a8b91dd38dd2" name="Changes" comment="added dependencies test runner">
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/Accounts.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/CreateAccount.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/CreateAccountWithRandomEmail.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/GenerateSupervisorToken.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/PlanCode.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/SecurityTest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/AccountCarAndPhone.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/CreateAndDeleteEnd2End.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/DeleteAccount.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/GenerateOperatorToken.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/GetAccounts.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/ProfileSection.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/CreateAccount.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/CreateAccount.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,17 +39,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.TestRunner.executor": "Run",
-    "JUnit.TestRunner.runTest.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestRunner.runTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.TestRunner">
+}</component>
+  <component name="RunManager" selected="JUnit.TestRunner.runTest">
     <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tek-spartans-CRYSTAL-karate-three" />
       <extension name="coverage">
@@ -81,8 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="JUnit.TestRunner.runTest" />
+        <item itemvalue="JUnit.TestRunner" />
       </list>
     </recent_temporary>
   </component>
