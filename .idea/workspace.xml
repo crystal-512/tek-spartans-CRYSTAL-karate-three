@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="215bdb94-7401-4f12-b7e6-a8b91dd38dd2" name="Changes" comment="added dependencies test runner">
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/AccountCarAndPhone.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/CreateAndDeleteEnd2End.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/DeleteAccount.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/GenerateOperatorToken.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/GetAccounts.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/ProfileSection.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/features/CreateAccount.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/CreateAccount.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
@@ -39,17 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestRunner.runTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.TestRunner.executor": "Run",
+    "JUnit.TestRunner.runTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.TestRunner.runTest">
+}]]></component>
+  <component name="RunManager" selected="JUnit.TestRunner">
     <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tek-spartans-CRYSTAL-karate-three" />
       <extension name="coverage">
@@ -83,8 +80,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestRunner.runTest" />
         <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="JUnit.TestRunner.runTest" />
       </list>
     </recent_temporary>
   </component>
@@ -112,11 +109,20 @@
       <option name="project" value="LOCAL" />
       <updated>1726084933727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added dependencies test runner">
+      <option name="closed" value="true" />
+      <created>1726749776908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726749776908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added test runner" />
-    <option name="LAST_COMMIT_MESSAGE" value="added test runner" />
+    <MESSAGE value="added dependencies test runner" />
+    <option name="LAST_COMMIT_MESSAGE" value="added dependencies test runner" />
   </component>
 </project>
