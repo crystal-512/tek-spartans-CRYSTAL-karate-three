@@ -2,7 +2,7 @@
 Feature: Testing profile section
 
   @Profile
-  Scenario Outline: testing profile section with diferent user
+  Scenario Outline: testing profile section with different user
     Given url BASE_URL
     Given path "/api/token"
     Given request
@@ -25,4 +25,4 @@ Feature: Testing profile section
       | username          | password       | accountType |
       | supervisor        | tek_supervisor | CSR         |
       | operator_readonly | Tek4u2024      | CSR         |
-      | mohammad25361     | mohammad25361  | CUSTOMER    |
+      | crystal22334     | crystal22334  | CUSTOMER    |
